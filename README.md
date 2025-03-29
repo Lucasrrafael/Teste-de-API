@@ -153,7 +153,7 @@ São Paulo
 
 3. Pesquisa por modalidade:
 ```
-=Odontologia
+Odontologia
 ```
 
 ## Notas Técnicas
